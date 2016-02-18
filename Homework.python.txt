@@ -1,0 +1,22 @@
+first  = "Marissa"
+last = "Carterud"
+age = 38
+ 
+print first , last , age
+ 
+sideA = 12.55
+sideB = 17.85
+sideC = (sideA + sideA) + (sideB + sideB)
+ 
+print sideC
+ 
+operand1 = 95
+operand2 = 64.5
+ 
+print operand1 + operand2
+print operand1 - operand2
+print operand1 * operand2
+print operand1 / operand2
+print operand1 % operand2
+ 
+# This solution would work well when the values of operand1 and operand2 are highly variable. It would allow minimal re-write to the code.   
